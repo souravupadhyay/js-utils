@@ -1,0 +1,16 @@
+{
+  "name": "js-utils",
+  "description": "Set of useful js utilities",
+  "version": "0.0.1",
+  "url": "https://github.com/souravupadhyay/js-utils/issues",
+  "dependencies": {
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/souravupadhyay/js-utils"
+  },
+  "author": {
+    "name": "Sourav Upadhyay",
+    "email": "sourav.calculus@gmail.com"
+  }
+}
